@@ -1,9 +1,7 @@
-![About me](https://raw.githubusercontent.com/JorgeCoello97/JorgeCoello97/main/assets/carbon.png)
 ![Hi everyone!](https://github.com/JorgeCoello97/JorgeCoello97/raw/main/assets/banner.gif)
 <h1 align="center">¡Welcome to my Github! &#128640; </h1>
 
-<h3 align="left">About me:</h3>
-
+<img src="https://raw.githubusercontent.com/JorgeCoello97/JorgeCoello97/main/assets/carbon.png/>
 <h1 align="center">Skills</h1>
 
 <h3 align="left">Programming Languages:</h3>
