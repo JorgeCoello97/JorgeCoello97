@@ -1,3 +1,4 @@
+(https://github.com/JorgeCoello97/JorgeCoello97/raw/main/assets/banner.gif)
 <h1 align="center">¡Welcome to my Github! &#128640; </h1>
 
 <h3 align="left">About me:</h3>
