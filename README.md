@@ -3,7 +3,7 @@
 
 <img style="margin: 0 auto;" src="https://raw.githubusercontent.com/JorgeCoello97/JorgeCoello97/main/assets/carbon.png"/>
 <h1 align="center">Skills</h1>
-<table>
+<table align="center">
   <tr>
     <td>
       <h3 align="left">Programming Languages:</h3>
