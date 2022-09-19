@@ -41,10 +41,7 @@
     </td>
   </tr>
   <tr>
-    <td>
-      
-    </td>
-    <td>
+    <td colspan="2">
       <h3 align="center">Cloud</h3>
       <p align="center"> 
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
