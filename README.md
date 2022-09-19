@@ -44,7 +44,7 @@
     <td>
       <h3 align="center">Devops</h3>
       <p align="center"> 
-         
+         <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
       </p>
     </td>
     <td>
