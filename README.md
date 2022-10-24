@@ -66,8 +66,8 @@
 <table align="center">
   <tr>
     <td>
-      <p align="center"> 
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/JorgeCoello97/JorgeCoello97/main/assets/portfolio.png" alt="porfolio" width="40" height="40"/>
       </p>
     </td>
     <td>
