@@ -62,4 +62,17 @@
 <p align="center">
 <a href="https://linkedin.com/in/jorge-coello-moncada" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorge-coello-moncada" height="30" width="40" /></a>
 </p>
-<p align="center"><a href="https://porfolio-jorge-coello.herokuapp.com/">CLICK HERE FOR OPEN MY MOBILE PORTFOLIO</a></p>
+
+<table align="center">
+  <tr>
+    <td>
+      <p align="center"> 
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+      </p>
+    </td>
+    <td>
+      <p align="center"><a href="https://porfolio-jorge-coello.herokuapp.com/">CLICK HERE FOR OPEN MY MOBILE PORTFOLIO</a></p>
+    </td>
+  </tr>
+</table>
+  
