@@ -64,18 +64,8 @@
 </p>
 
 <h1 align="center">My Mobile Porfolio</h3>
-<table align="center">
-  <tr>
-    <td>
-      <br>
-      <p align="center">
-        <img src="https://raw.githubusercontent.com/JorgeCoello97/JorgeCoello97/main/assets/portfolio.png" alt="porfolio" width="40" height="40"/>
-      </p>
-    </td>
-    <td>
-      <br>
-      <p align="center"><a href="https://porfolio-jorge-coello.herokuapp.com/">CLICK HERE</a></p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+<a href="https://porfolio-jorge-coello.herokuapp.com/" target="_blank"><img src="https://raw.githubusercontent.com/JorgeCoello97/JorgeCoello97/main/assets/portfolio.png" alt="porfolio" width="40" height="40"/></a>
+</p>
+
   
