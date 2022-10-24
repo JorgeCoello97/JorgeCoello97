@@ -1,4 +1,3 @@
-![Hi everyone!](https://github.com/JorgeCoello97/JorgeCoello97/raw/main/assets/banner.gif)
 <h1 align="center">¡Welcome to my Github! &#128640; </h1>
 
 <img style="margin: 0 auto;pointer-events: none;" src="https://raw.githubusercontent.com/JorgeCoello97/JorgeCoello97/main/assets/carbon.png"/>
